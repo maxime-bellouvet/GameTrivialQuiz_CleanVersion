@@ -59,24 +59,6 @@ public class UIController : MonoBehaviour
         pointsToScore = this.gameObject.transform.Find("Question Proposition/Question Panel/Answer Choices/Points to Score");
     }
 
-    //private void Update()
-    //{
-
-    //    if (!validationPanels[0].activeSelf && !validationPanels[1].activeSelf && !validationPanels[2].activeSelf && !validationPanels[3].activeSelf)
-    //    {
-    //        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-
-    //        if (Physics.Raycast(ray, out hit))
-    //        {
-    //            Debug.Log("hit= " + hit.collider.name);
-    //            if (hit.collider.tag == "Joker")
-    //            {
-    //                Debug.Log(hit.collider.name);
-    //            }
-    //        }
-    //        return;
-    //    }
-    //}
 
     IEnumerator UpdateScoresCo()
     {

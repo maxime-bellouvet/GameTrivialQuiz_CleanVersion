@@ -276,7 +276,7 @@
         <string>Basse-Normandie</string>
         <string>Nord-Pas-de-Calais</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Hormis le Tigre, quel est le nom du deuxième grand fleuve d'Irak ?</Question>
@@ -947,7 +947,7 @@
         <string>25 ans</string>
         <string>20 ans</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Qui était la mère du chanteur Carlos ?</Question>
@@ -1109,7 +1109,7 @@
         <string>1968</string>
         <string>1983</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>A cause de quelle plante une bière peut être blanche ?</Question>
@@ -1922,7 +1922,7 @@
         <string>Napoléon III</string>
         <string>Philippe Auguste</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
@@ -2118,7 +2118,7 @@
         <string>She Loves You</string>
         <string>Love Me Do</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Quelle héroïne d'opéra se suicide sur le sabre de son père ?</Question>
@@ -2310,7 +2310,7 @@
         <string>2</string>
         <string>4</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Qui chantait 'Tout doucement' en 1985 ?</Question>
@@ -3341,7 +3341,7 @@
         <string>Venise</string>
         <string>Naples</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Qui a peint le tableau expressionniste Le Cri ?</Question>
@@ -3658,7 +3658,7 @@
         <string>Orange</string>
         <string>Blanc</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Quelle sportive française était surnommé la gazelle ?</Question>
@@ -3861,7 +3861,7 @@
         <string>Le pentathlon</string>
         <string>Le décathlon</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>A quoi correspond le colorant alimentaire E150 ?</Question>
@@ -7088,7 +7088,7 @@
         <string>Thyroïde</string>
         <string>Surrénale</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Quel groupe sanguin est donneur universel ? </Question>
@@ -10082,7 +10082,7 @@
         <string>Nintendo DS</string>
         <string>Super Nintendo</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Quel était le premier nom de Nintendo ?</Question>
@@ -15016,7 +15016,7 @@
         <string>Carapuce</string>
         <string>Salamèche</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>En qui évolue Insécateur ?</Question>
@@ -18831,7 +18831,7 @@
         <string>Le vacherin</string>
         <string>La vachette</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Quel type d'animal est une autruche ?</Question>
@@ -18856,7 +18856,7 @@
         <string>Python</string>
         <string>Vipère</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Complétez ce titre d'une fable de Jean de la Fontaine, 'Le Corbeau et ... </Question>
@@ -19023,7 +19023,7 @@
         <string>Le vautour fauve</string>
         <string>L'aigle royal</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>De quelle origine est le chien du pharaon ?</Question>
@@ -19037,7 +19037,7 @@
         <string>Egypte</string>
         <string>Chypre</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Quel grand félin peut-on trouver dans les massifs alpins de France ?</Question>
@@ -19056,7 +19056,7 @@
         <string>Le jaguar</string>
         <string>Le caracal</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Quelle est la femelle du lièvre ?</Question>
@@ -19176,7 +19176,7 @@
         <string>La truie</string>
         <string>La hase</string>
       </WrongAnswers>
-      <Asked>true</Asked>
+      <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Combien de pattes les insectes ont-ils ?</Question>

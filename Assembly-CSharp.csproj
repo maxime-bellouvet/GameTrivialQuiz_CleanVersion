@@ -76,11 +76,10 @@
     <Compile Include="Assets\External Resources\BayatGames\SaveGameFree\Scripts\Types\Vector2Save.cs" />
     <Compile Include="Assets\External Resources\BayatGames\SaveGameFree\Scripts\Types\Vector3Save.cs" />
     <Compile Include="Assets\External Resources\BayatGames\SaveGameFree\Scripts\Types\Vector4Save.cs" />
-    <Compile Include="Assets\External Resources\MaterialUI-master\Scripts\Anim.cs" />
-    <Compile Include="Assets\External Resources\MaterialUI-master\Scripts\InputFieldConfig.cs" />
     <Compile Include="Assets\Scripts\ButtonsHandler.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\HUDFinale.cs" />
+    <Compile Include="Assets\Scripts\InputFieldBehavior.cs" />
     <Compile Include="Assets\Scripts\JokerDescription.cs" />
     <Compile Include="Assets\Scripts\LevelManager.cs" />
     <Compile Include="Assets\Scripts\MenuController.cs" />
@@ -96,7 +95,6 @@
     <None Include="Assets\External Resources\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\External Resources\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\External Resources\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\External Resources\MaterialUI-master\Fonts\NOTICE.txt" />
     <None Include="Assets\Fonts\Alegreya_Sans\OFL.txt" />
     <None Include="Assets\External Resources\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\External Resources\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
