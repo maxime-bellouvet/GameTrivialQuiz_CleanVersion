@@ -47,9 +47,16 @@
         <string>9eme arrondissement</string>
         <string>9 arrondissement</string>
         <string>9eme</string>
+        <string>9 eme</string>
         <string>9eme arrondissement</string>
         <string>neuvieme</string>
         <string>neuvieme arrondissement</string>
+        <string>IX</string>
+        <string>IX arrondissement</string>
+        <string>IXeme arrondissement</string>
+        <string>IXeme</string>
+        <string>IXe arrondissement</string>
+        <string>IXe</string>
       </CorrectAnswer>
       <WrongAnswers>
         <string>1er arrondissement</string>
@@ -493,6 +500,71 @@
         <string>Le Cirque de Troumouse</string>
       </WrongAnswers>
       <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quel pays se trouve le site inca du Machu Picchu ?</Question>
+        <CorrectAnswer>
+            <string>Pérou</string>
+            <string>au Pérou</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Bolivie</string>
+            <string>Venezuela</string>
+            <string>Mexique</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion> 
+    <QuizQuestion>
+        <Question>Dans quel océan se trouve la Nouvelle-Zélande ?</Question>
+        <CorrectAnswer>
+            <string>Pacifique</string>
+            <string>océan Pacifique</string>
+            <string>l'océan Pacifique</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Atlantique</string>
+            <string>Indien</string>
+            <string>Antarctique</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel État a la plus grande densité de population ?</Question>
+        <CorrectAnswer>
+            <string>Monaco</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Inde</string>
+            <string>Vatican</string>
+            <string>Chine</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quelle est la ville la plus peuplée en Bretagne ?</Question>
+        <CorrectAnswer>
+            <string>Rennes</string>
+            <string>Renne</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Lorient</string>
+            <string>Quimper</string>
+            <string>Brest</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Comment appelle-t-on les habitants de la ville de Saint-Malo ?</Question>
+        <CorrectAnswer>
+            <string>Les Malouins</string>
+            <string>Malouins</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Les Maliens</string>
+            <string>Les Malons</string>
+            <string>Les Malonites</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
     </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
@@ -2459,6 +2531,111 @@
       </WrongAnswers>
       <Asked>false</Asked>
     </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel film a attiré le plus de spectateurs français en 2003 ?</Question>
+        <CorrectAnswer>
+            <string>Le Monde de Némo</string>
+            <string>Némo</string>
+            <string>Finding nemo</string>
+            <string>Monde de Némo</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Matrix Reloaded</string>
+            <string>Chouchou</string>
+            <string>Taxi 3</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Combien de doigts a E.T. sur une main ?</Question>
+        <CorrectAnswer>
+            <string>4</string>
+            <string>quatre</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>2</string>
+            <string>3</string>
+            <string>5</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel acteur joue un réparateur de drones dans le film « Oblivion » ?</Question>
+        <CorrectAnswer>
+            <string>Tom Cruise</string>
+            <string>Cruise</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>John Travolta</string>
+            <string>Benicio Del Toro</string>
+            <string>Bradley Cooper</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En quelle année a été diffusée la première téléréalité française ?</Question>
+        <CorrectAnswer>
+            <string>2001</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>1999</string>
+            <string>2002</string>
+            <string>2000</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En quelle année est sorti l'album "The Dark Side of the Moon" de Pink Floyd ?</Question>
+        <CorrectAnswer>
+            <string>1973</string>
+            <string>73</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>1970</string>
+            <string>1967</string>
+            <string>1976</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans Dragon Ball, combien d'enfant a Son Goku ?</Question>
+        <CorrectAnswer>
+            <string>2</string>
+            <string>deux</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>4</string>
+            <string>6</string>
+            <string>8</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est l'hymne de la première promotion de la Star Academy ?</Question>
+        <CorrectAnswer>
+            <string>La Musique</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Musique</string>
+            <string>Paris Latino</string>
+            <string>La Bamba</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel réalisateur de le galaxie Star Wars était aux commandes de l’épisode culte de Breaking Bad, “Fly” ?</Question>
+        <CorrectAnswer>
+            <string>Rian Johnson</string>
+            <string>Ryan Johnson</string>
+            <string>Johnson</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Dave Filoni</string>
+            <string>J.J. Abrams</string>
+            <string>Georges Lucas</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
     <QuizQuestion>
@@ -3149,6 +3326,129 @@
       </WrongAnswers>
       <Asked>false</Asked>
     </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est l'âge de l'univers (au milliard près) ?</Question>
+        <CorrectAnswer>
+            <string>14 milliards</string>
+            <string>14 milliards d'années</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>4 milliards</string>
+            <string>52 milliards</string>
+            <string>30 milliards</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Combien y a-t-il de centimètres dans un kilomètre ?</Question>
+        <CorrectAnswer>
+            <string>100 000</string>
+            <string>100000</string>
+            <string>100,000</string>
+            <string>100 000 cm</string>
+            <string>100000 cm</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>1 000 000</string>
+            <string>1000</string>
+            <string>10 000</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel pourcentage des réserves d’eau douce mondiales représente le fleuve Amazone ?</Question>
+        <CorrectAnswer>
+            <string>18 %</string>
+            <string>18%</string>
+            <string>18</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>8 %</string>
+            <string>11 %</string>
+            <string>22 %</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Qu'étudie un phycologue ?</Question>
+        <CorrectAnswer>
+            <string>Les algues</string>
+            <string>algues</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Les coquillages</string>
+            <string>Les oursins</string>
+            <string>Les poissons</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel nom de physicien a-t-on donné à l’unité internationale de l'intensité du courant électrique ?</Question>
+        <CorrectAnswer>
+            <string>Ampère</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Volta</string>
+            <string>Ohm</string>
+            <string>Watt</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quelle est la saison de floraison de l'amarante ?</Question>
+        <CorrectAnswer>
+            <string>été</string>
+            <string>l'été</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>printemps</string>
+            <string>automne</string>
+            <string>hiver</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>À l'origine, de quel pays provient la tulipe ?</Question>
+        <CorrectAnswer>
+            <string>Turquie</string>
+            <string>la Turquie</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Chine</string>
+            <string>Pays-Bas</string>
+            <string>Mexique</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quelle variété de fruits porte le nom de Bigarade ?</Question>
+        <CorrectAnswer>
+            <string>L’orange</string>
+            <string>orange</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>La cerise</string>
+            <string>La fraise</string>
+            <string>La poire</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Que met en évidence l’expérience du célèbre pendule de Léon Foucault ?</Question>
+        <CorrectAnswer>
+            <string>La rotation de la terre</string>
+            <string>rotation de la terre</string>
+            <string>rotation terre</string>
+            <string>la terre tourne</string>
+            <string>terre tourne</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>La rotation du soleil</string>
+            <string>Le déplacement des étoiles</string>
+            <string>La dérive des continents</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
     <QuizQuestion>
@@ -3604,6 +3904,68 @@
         <string>43 mois</string>
       </WrongAnswers>
       <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel architecte a conçu la Sagrada Familia ?</Question>
+        <CorrectAnswer>
+            <string>Antoni Gaudi</string>
+            <string>Gaudi</string>
+            <string>Antoni Godi</string>
+            <string>Godi</string>
+            <string>Anthony Gaudi</string>
+            <string>Anthony Godi</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Ricardo Bofill</string>
+            <string>Eloy Celaya</string>
+            <string>Juan de Villanueva</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Qui a dit : "Deviens ce que tu es." ?</Question>
+        <CorrectAnswer>
+            <string>Nietzsche</string>
+            <string>nietzche</string>
+            <string>nietche</string>
+            <string>Friedrich Nietzsche</string>
+            <string>Friedrich nietzche</string>
+            <string>Friedrich nietche</string>
+            <string>Friedric Nietzsche</string>
+            <string>Friedric nietzche</string>
+            <string>Friedric nietche</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Sartre</string>
+            <string>Camus</string>
+            <string>Kant</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>« Le bonheur est bien le génie de nos motivations ». De qui est cette citation ?</Question>
+        <CorrectAnswer>
+            <string>Aristote</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Epicure</string>
+            <string>Ronsard</string>
+            <string>Platon</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel mouvement littéraire et artistique est né dans les années 50 aux Etats Unis ?</Question>
+        <CorrectAnswer>
+            <string>La Beat Generation</string>
+            <string>Beat Generation</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>La Soft Generation</string>
+            <string>La Love Generation</string>
+            <string>La Great Generation</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
     </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
@@ -4251,6 +4613,116 @@
         <string>Patrice Évra</string>
       </WrongAnswers>
       <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Traditionnellement, combien de cases compte le jeu de l'oie ?</Question>
+        <CorrectAnswer>
+            <string>63</string>
+            <string>soixante trois</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>31</string>
+            <string>42</string>
+            <string>54</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quel sport s’est illustré Nigel Mansel ?</Question>
+        <CorrectAnswer>
+            <string>formule 1</string>
+            <string>F1</string>
+            <string>sport automobile</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>tennis</string>
+            <string>water-polo</string>
+            <string>hockey</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel jeu de stratégie consiste à pousser 6 billes de l'adversaire dans la rigole ?</Question>
+        <CorrectAnswer>
+            <string>Abalone</string>
+            <string>l'Abalone</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Hexagone</string>
+            <string>Neurone</string>
+            <string>Awalé</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans le jeu Cluedo, qui a été assassiné ?</Question>
+        <CorrectAnswer>
+            <string>Docteur Lenoir</string>
+            <string>Dr Lenoir</string>
+            <string>Lenoir</string>
+            <string>Docteur Len oir</string>
+            <string>Dr Le noir</string>
+            <string>Le noir</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Madame Leblanc</string>
+            <string>Colonel Moutarde</string>
+            <string>Madame Pervenche</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>De combien de face est constitué un ballon de football ?</Question>
+        <CorrectAnswer>
+            <string>32</string>
+            <string>trente deux</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>24</string>
+            <string>28</string>
+            <string>36</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>A l'origine, en quelle matière étaient faites les balles de golf ?</Question>
+        <CorrectAnswer>
+            <string>Cuir</string>
+            <string>en cuir</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Plâtre</string>
+            <string>Bois</string>
+            <string>Terre</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Lors du Tour de France cycliste, qui est récompensé d’un maillot blanc à pois rouges ?</Question>
+        <CorrectAnswer>
+            <string>Le meilleur grimpeur</string>
+            <string>meilleur grimpeur</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Le meilleur jeune coureur</string>
+            <string>Le meilleur sprinter</string>
+            <string>Le dernier</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel écart de temps sépara Greg Lemond de Laurent Fignon, respectivement premier et deuxième du Tour de France cycliste 1989 ?</Question>
+        <CorrectAnswer>
+            <string>8 secondes</string>
+            <string>8 s</string>
+            <string>8s</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>3 secondes</string>
+            <string>32 secondes</string>
+            <string>3 minutes</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
     </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
@@ -6900,6 +7372,151 @@
       </WrongAnswers>
       <Asked>false</Asked>
     </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans le dessin animé Raiponce, Flynn Rider est recherché mort ou vif car, selon l'affiche, il s'agit d'un...</Question>
+        <CorrectAnswer>
+            <string>voleur</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>bandit</string>
+            <string>traître</string>
+            <string>cambrioleur</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans La Belle au Bois dormant, quel est le nom du corbeau de Maléfique ?</Question>
+        <CorrectAnswer>
+            <string>Diablo</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Malum</string>
+            <string>Mauvais</string>
+            <string>Evilo</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans La Reine des neiges, combien de frères a Hans ?</Question>
+        <CorrectAnswer>
+            <string>12</string>
+            <string>douze</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>7</string>
+            <string>9</string>
+            <string>15</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans Aladdin, que donne Aladdin à manger à un enfant pauvre malgré les protestations d'Abu ?</Question>
+        <CorrectAnswer>
+            <string>du pain</string>
+            <string>pain</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>des dattes</string>
+            <string>des pommes</string>
+            <string>du fromage</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans La Belle et la Bête, combien d'oeufs Gaston déclare-t-il manger pour pouvoir rester «le roi des balèzes» ?</Question>
+        <CorrectAnswer>
+            <string>49</string>
+            <string>quarante neuf</string>
+            <string>quarante-neuf</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>24</string>
+            <string>99</string>
+            <string>12</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans La Princesse et la Grenouille, de quel pays fictif est originaire le prince Naveen ?</Question>
+        <CorrectAnswer>
+            <string>Maldonia</string>
+            <string>Maldonie</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Mypos</string>
+            <string>Maramorgos</string>
+            <string>Mrac</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans Hercule, Hadès a promis de ne pas faire de mal à Megara s'il lui prête sa force pour combien de temps ?</Question>
+        <CorrectAnswer>
+            <string>24 heures</string>
+            <string>24h</string>
+            <string>24 h</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>36 heures</string>
+            <string>48 heures</string>
+            <string>12 heures</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Sur les épaules de qui Simplet se tient-il pour danser avec Blanche-Neige durant la scène de «La Tyrolienne des nains» ?</Question>
+        <CorrectAnswer>
+            <string>Atchoum</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Doc</string>
+            <string>Joyeux</string>
+            <string>Grincheux</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans Alice au Pays des Merveilles, hormis une montre de poche, que porte le Lapin Blanc quand Alice le rencontre ?</Question>
+        <CorrectAnswer>
+            <string>Un parapluie</string>
+            <string>parapluie</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Un haut de forme</string>
+            <string>Une canne</string>
+            <string>Un cartable</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Combien d'années le Génie dit-il avoir été emprisonné dans la lampe ?</Question>
+        <CorrectAnswer>
+            <string>10 000 ans</string>
+            <string>10000 ans</string>
+            <string>10000ans</string>
+            <string>10 000 années</string>
+            <string>10000 années</string>
+            <string>10,000 ans</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>1 000 ans</string>
+            <string>100 ans</string>
+            <string>500 ans</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans Merlin l'Enchanteur, comment s'appelle la chouette de Merlin ?</Question>
+        <CorrectAnswer>
+            <string>Archimède</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Platon</string>
+            <string>Socrate</string>
+            <string>Aristote</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
     <QuizQuestion>
@@ -7431,6 +8048,123 @@
       </WrongAnswers>
       <Asked>false</Asked>
     </QuizQuestion>
+    <QuizQuestion>
+        <Question>Sous quels autres noms sont connus le patella et le fibula ?</Question>
+        <CorrectAnswer>
+            <string>Tibia et fémur</string>
+            <string>Tibia fémur</string>
+            <string>le Tibia et le fémur</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Calcaneum et phalange</string>
+            <string>Os tarsien et métatarsien</string>
+            <string>Rotule et péroné</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quelle maladie est provoquée par le bacille de Koch ?</Question>
+        <CorrectAnswer>
+            <string>La tuberculose</string>
+            <string>tuberculose</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Le thyphus</string>
+            <string>La diphtérie</string>
+            <string>La peste</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quelle maladie autrefois très répandue, a été totalement éradiquée en 1977 (date du dernier cas connu) ?</Question>
+        <CorrectAnswer>
+            <string>La variole</string>
+            <string>variole</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>La dengue</string>
+            <string>La phtysie</string>
+            <string>La rougeole</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quelle est la complication la plus redoutée de l'alcoolisme ?</Question>
+        <CorrectAnswer>
+            <string>La cirrhose du foie</string>
+            <string>La cirhose du foie</string>
+            <string>La cirose du foie</string>
+            <string>La cirrose du foie</string>
+            <string>La sirrose du foie</string>
+            <string>La sirose du foie</string>
+            <string>La sirhose du foie</string>
+            <string>La sirrhose du foie</string>
+            <string>cirrhose du foie</string>
+            <string>cirhose du foie</string>
+            <string>cirose du foie</string>
+            <string>cirrose du foie</string>
+            <string>sirrose du foie</string>
+            <string>sirose du foie</string>
+            <string>sirhose du foie</string>
+            <string>sirrhose du foie</string>
+            <string>cirrhose du foie</string>
+            <string>cirrhose</string>
+            <string>cirrhose</string>
+            <string>cirose</string>
+            <string>cirrose</string>
+            <string>sirrose</string>
+            <string>sirose</string>
+            <string>sirhose</string>
+            <string>sirrhose</string>
+            <string>cirrhose</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>La cystite</string>
+            <string>La pneumonie</string>
+            <string>L'epilepsie</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quelle ville serait apparu le premier cas de Covid-19 (coronavirus 2019) ?</Question>
+        <CorrectAnswer>
+            <string>Wuhan</string>
+            <string>Wouhan</string>
+            <string>à wuhan</string>
+            <string>à wouhan</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Shenzhen</string>
+            <string>Shanghai</string>
+            <string>Chengdu</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Combien de paires de chromosomes renferme chaque noyau de nos cellules ?</Question>
+        <CorrectAnswer>
+            <string>23</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>12</string>
+            <string>32</string>
+            <string>42</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Comment nomme-t-on l’effet d’une glycémie trop élevée ?</Question>
+        <CorrectAnswer>
+            <string>L’hyperglycémie</string>
+            <string>hyperglycémie</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>L’hypoglycémie</string>
+            <string>Les triglycérides</string>
+            <string>L’aérophagie</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
     <QuizQuestion>
@@ -7575,7 +8309,7 @@
         <string>dragon</string>
       </CorrectAnswer>
       <WrongAnswers>
-        <string>Poil de cul d'Hagrid</string>
+        <string>Poil de loup-garou</string>
         <string>Plume de phoenix</string>
         <string>Crin de Sombral</string>
       </WrongAnswers>
@@ -8180,6 +8914,70 @@
         <string>Scott Lang</string>
       </WrongAnswers>
       <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Comment se prénomme la mère d’Harry ?</Question>
+        <CorrectAnswer>
+            <string>Lily</string>
+            <string>LiLly</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Ginny</string>
+            <string>Dolores</string>
+            <string>Hedwige</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quelle actrice joue le rôle d’Hermione Granger ?</Question>
+        <CorrectAnswer>
+            <string>Emma Watson</string>
+            <string>Watson</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Evanna Lynch</string>
+            <string>Bonnie Wright</string>
+            <string>Emma Thompson</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quel bar, Harry Potter et ses amis se retrouvent-ils de temps en temps ?</Question>
+        <CorrectAnswer>
+            <string>A la Tête de Sanglier</string>
+            <string>la Tête de Sanglier</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>A l’oeil de Biche</string>
+            <string>A la Chaumière aux Coquillages</string>
+            <string>A la Cabane Hurlante</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Comment s’appelle le Journal d’information qui accuse très souvent Harry Potter ?</Question>
+        <CorrectAnswer>
+            <string>La Gazette du Sorcier</string>
+            <string>Gazette du Sorcier</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Le Journal de Sorcellerie</string>
+            <string>Le Magazine des Potions</string>
+            <string>L’Apprenti-News</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est le poste d’Harry au Quidditch ?</Question>
+        <CorrectAnswer>
+            <string>Attrapeur</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Batteur</string>
+            <string>Gardien</string>
+            <string>Poursuiveur</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
       <Question>Pendant quelle guerre Steve Rogers devient-il Captain America ?</Question>
@@ -10735,6 +11533,19 @@
       </WrongAnswers>
       <Asked>false</Asked>
     </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est le nom du monde de la franchise Zelda ?</Question>
+        <CorrectAnswer>
+            <string>Hyrule</string>
+            <string>Hirule</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>La Terre du Milieu</string>
+            <string>Midgard</string>
+            <string>Azeroth</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
     <QuizQuestion>
@@ -12656,6 +13467,98 @@
       </WrongAnswers>
       <Asked>false</Asked>
     </QuizQuestion>
+    <QuizQuestion>
+        <Question>Qui a réalisé le film "Edward aux mains d'argent" ?</Question>
+        <CorrectAnswer>
+            <string>Tim Burton</string>
+            <string>Burton</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>James Cameron</string>
+            <string>Hayao Miyazaki</string>
+            <string>Brian De Palma</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quel film entend-on cette réplique "Oh captain, my captain" ?</Question>
+        <CorrectAnswer>
+            <string>Le Cercle des Poètes Disparus</string>
+            <string>Cercle des Poètes Disparus</string>
+            <string>Poètes Disparus</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Good Morning Vietnam</string>
+            <string>Barton Fink</string>
+            <string>Will Hunting</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel acteur joue le rôle du gardien-chef Edgecomb dans le film "La ligne verte" ?</Question>
+        <CorrectAnswer>
+            <string>Tom Hanks</string>
+            <string>Tom Hank</string>
+            <string>Hanks</string>
+            <string>Hank</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Jeremy Irons</string>
+            <string>Andy Garcia</string>
+            <string>Ben Affleck</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quel film la petite Mathilda suit-elle un célèbre tueur à gages ?</Question>
+        <CorrectAnswer>
+            <string>Léon</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Kika</string>
+            <string>Frenzy</string>
+            <string>My Own Private Idaho</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quel quartier parisien se déroule le film "Le fabuleux Destin d'Amélie Poulain" ?</Question>
+        <CorrectAnswer>
+            <string>Montmartre</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Ménilmontant</string>
+            <string>Clignancourt</string>
+            <string>Oberkampf</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel acteur tient le rôle de Korben Dallas dans "Le 5e élément" ?</Question>
+        <CorrectAnswer>
+            <string>Bruce Willis</string>
+            <string>Willis</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Sean Penn</string>
+            <string>Tom Cruise</string>
+            <string>William Hurt</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quel film entend-on cette réplique « Trois consonnes, quatre voyelles et un seul sens : je t’aime » ?</Question>
+        <CorrectAnswer>
+            <string>Titanic</string>
+            <string>le Titanic</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Ghost</string>
+            <string>Pretty Woman</string>
+            <string>Philadelphia</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
     <QuizQuestion>
@@ -13719,6 +14622,136 @@
         <string>Un fusil d'assaut</string>
       </WrongAnswers>
       <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans "La Casa de Papel", avec combien de millions partent les braqueurs de la Fabrique de la Monnaie ?</Question>
+        <CorrectAnswer>
+            <string>984 millions</string>
+            <string>984 millions d'euros</string>
+            <string>984 000 000</string>
+            <string>984,000,000</string>
+            <string>984000000</string>
+            <string>984000000€</string>
+            <string>984000000 €</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>413 millions</string>
+            <string>1 million</string>
+            <string>100 millions</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans la série "La Casa de Papel", Quelle activité pratique le Professeur pour se détendre en plein braquage ?</Question>
+        <CorrectAnswer>
+            <string>de l'origami</string>
+            <string>origami</string>
+            <string>l'origami</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>du sport</string>
+            <string>de la couture</string>
+            <string>de la peinture</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans Mindhunter, quels effets personnels de ses victimes le tueur en série Jerry Brudos garde-t-il comme souvenirs ?</Question>
+        <CorrectAnswer>
+            <string>leurs chaussures</string>
+            <string>chaussures</string>
+            <string>les chaussures</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>leurs boucles d'oreilles</string>
+            <string>leurs petites culottes</string>
+            <string>leurs brosses à cheveux</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Que veut dire la phrase "Valar Morghulis" dans Game of Thrones ?</Question>
+        <CorrectAnswer>
+            <string>Tous les hommes doivent mourir</string>
+            <string>les hommes doivent mourir</string>
+            <string>Tous les hommes vont mourir</string>
+            <string>les hommes vont mourir</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Tous les hommes doivent servir</string>
+            <string>Tous les hommes doivent se battre</string>
+            <string>Tous les hommes doivent y croire</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>A combien s'élève le pactole de Walter White lorsqu'il quitte le monde de la drogue dans Breaking Bad (en millions de dollars) ?</Question>
+        <CorrectAnswer>
+            <string>80 millions de dollars</string>
+            <string>80 millions dollars</string>
+            <string>80 millions</string>
+            <string>80</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>2 millions de dollars</string>
+            <string>15 millions de dollars</string>
+            <string>150 millions de dollars</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Que vole Ted pour impressionner Robin lors de leur premier rencard dans How I Met Your Mother ?</Question>
+        <CorrectAnswer>
+            <string>un cor bleu</string>
+            <string>cor bleu</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>un parapluie jaune</string>
+            <string>un ananas</string>
+            <string>des bottes de cowboy rouges</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel était le métier de June avant que la République de Gilead ne soit instaurée dans The Handmaid’s Tale ?</Question>
+        <CorrectAnswer>
+            <string>éditrice</string>
+            <string>éditeur</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>journaliste</string>
+            <string>professeur</string>
+            <string>vendeuse</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quelle saison Negan fait-il sa grande apparition dans The Walking Dead ?</Question>
+        <CorrectAnswer>
+            <string>saison 6</string>
+            <string>6</string>
+            <string>sixième saison</string>
+            <string>sixième</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>saison 5</string>
+            <string>saison 4</string>
+            <string>saison 7</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quelle ville fictive des États-Unis se déroulent les événements de Stranger Things ?</Question>
+        <CorrectAnswer>
+            <string>Hawkins</string>
+            <string>Hawkin</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Winterfell</string>
+            <string>Pawnee</string>
+            <string>Rosewood</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
     </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
@@ -16015,6 +17048,75 @@
         <string>Nintendo DS</string>
       </WrongAnswers>
       <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel signe de ponctuation marque les blocs bonus octroyant des pièces ou des aptitudes dans "Super Mario Bros." sur NES ?</Question>
+        <CorrectAnswer>
+            <string>?</string>
+            <string>point d'interrogation</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>...</string>
+            <string>!</string>
+            <string>:</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel était ce jeu d'aventure, édité par Loriciels sur Amstrad CPC, qui requérait des lunettes anaglyphes pour visualiser ses graphismes en 3D ?</Question>
+        <CorrectAnswer>
+            <string>Relief Action</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Jim Power</string>
+            <string>3D Starstrike</string>
+            <string>A320</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quelle machine était surnomée la "Rolls des consoles" ?</Question>
+        <CorrectAnswer>
+            <string>Neo-Geo</string>
+            <string>NeoGeo</string>
+            <string>Neo Geo</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>3DO</string>
+            <string>Mattel Intellivision</string>
+            <string>Amiga CD32</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quel jeu apparaît pour la première fois le personnage de Wario ?</Question>
+        <CorrectAnswer>
+            <string>Super Mario Land 2 : 6 Golden Coins (Game Boy)</string>
+            <string>Super Mario Land 2 : 6 Golden Coins</string>
+            <string>Super Mario Land 2 6 Golden Coins</string>
+            <string>Super Mario Land 2 : Golden Coins</string>
+            <string>Super Mario Land 2 Golden Coins</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Wario Land : Super Mario Land 3 (Game Boy)</string>
+            <string>Super Mario Land 2 : Yoshi's island (SNES)</string>
+            <string>Super Mario Bros. 3 (NES)</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel point'n'click propose de terrasser son adversaire grâce à un duel d'insultes basé sur la puissance de la répartie ?</Question>
+        <CorrectAnswer>
+            <string>The Secret of Monkey Island</string>
+            <string>Secret of Monkey Island</string>
+            <string>Monkey Island</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Day of the Tentacle</string>
+            <string>Les voyageurs du temps</string>
+            <string>Leisure Suit Larry 2</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
     </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
@@ -19368,6 +20470,90 @@
       </WrongAnswers>
       <Asked>false</Asked>
     </QuizQuestion>
+    <QuizQuestion>
+        <Question>A quel organe correspond le corail dans la coquille Saint-Jacques ?</Question>
+        <CorrectAnswer>
+            <string>L'appareil génital</string>
+            <string>appareil génital</string>
+            <string>sexe</string>
+            <string>le sexe</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Le rein</string>
+            <string>Le coeur</string>
+            <string>Le cerveau</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est l'animal terrestre le plus rapide en course ?</Question>
+        <CorrectAnswer>
+            <string>Le guépard</string>
+            <string>guépard</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Le panthère</string>
+            <string>L'autruche</string>
+            <string>Le léopard</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>De combien de fois sa taille une puce est-elle capable de sauter ?</Question>
+        <CorrectAnswer>
+            <string>340 fois</string>
+            <string>340</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>30 fois</string>
+            <string>180 fois</string>
+            <string>80 fois</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est l'animal le plus venimeux au monde ?</Question>
+        <CorrectAnswer>
+            <string>La méduse-boîte</string>
+            <string>méduse-boîte</string>
+            <string>méduse boîte</string>
+            <string>la méduse boîte</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>L'araignée-banane</string>
+            <string>Le cobra royal</string>
+            <string>Le scorpion rôdeur</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Combien de côtes disposent la cage thoracique de l'éléphant ?</Question>
+        <CorrectAnswer>
+            <string>20 côtes</string>
+            <string>20</string>
+            <string>vingt côtes</string>
+            <string>vingt</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>35 côtes</string>
+            <string>55 côtes</string>
+            <string>70 côtes</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est l'animal vertébré qui a la plus longue gestation du monde ?</Question>
+        <CorrectAnswer>
+            <string>Le requin lézard</string>
+            <string>requin lézard</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>L'éléphant d'Asie</string>
+            <string>Le panda roux</string>
+            <string>Le morse</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
     <QuizQuestion>
@@ -20114,6 +21300,100 @@
         <string>6 temps</string>
       </WrongAnswers>
       <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel était le surnom de la chanteuse Barbara ?</Question>
+        <CorrectAnswer>
+            <string>La Dame en noir</string>
+            <string>Dame en noir</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>La Grande Dame</string>
+            <string>La Belle Dame</string>
+            <string>La Dame Damdéo</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est le titre de la chanson racontant l'histoire d'un homme qui ne veut pas faire la guerre, qui a été chantée par Serge Reggiani ?</Question>
+        <CorrectAnswer>
+            <string>Le déserteur</string>
+            <string>déserteur</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Le soldat</string>
+            <string>Le dissident</string>
+            <string>Le pacifiste</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>De quel groupe Fergie était-elle la chanteuse ?</Question>
+        <CorrectAnswer>
+            <string>Black Eyed Peas</string>
+            <string>Black Eye Peas</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Evanescence</string>
+            <string>Pussycat Dolls</string>
+            <string>No Doubt</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>De quel instrument de musique Phil Collins jouait-il au sein du groupe Genesis ?</Question>
+        <CorrectAnswer>
+            <string>De la batterie</string>
+            <string>la batterie</string>
+            <string>batterie</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Du piano</string>
+            <string>De la guitare</string>
+            <string>De la basse</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel acteur et chanteur français a pour vrai nom Ivo Livi ?</Question>
+        <CorrectAnswer>
+            <string>Yves Montand</string>
+            <string>Montand</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Charles Aznavour</string>
+            <string>Serge Reggiani</string>
+            <string>Eddy Mitchell</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Selon le titre d'une chanson de Bernard Lavilliers, de quelle couleur est Pigalle ?</Question>
+        <CorrectAnswer>
+            <string>Blanche</string>
+            <string>blanc</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Bleue</string>
+            <string>Rouge</string>
+            <string>Noire</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En 1989, quel groupe sort la chanson "Mandela Day" ?</Question>
+        <CorrectAnswer>
+            <string>Simple Minds</string>
+            <string>the Simple Minds</string>
+            <string>Simple Mind</string>
+            <string>the Simple Mind</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Tears for fears</string>
+            <string>The Who</string>
+            <string>U2</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
     </QuizQuestion>
   </ArrayOfQuizQuestion>
 </ArrayOfArrayOfQuizQuestion>
