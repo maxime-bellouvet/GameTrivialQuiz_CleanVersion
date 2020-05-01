@@ -47,7 +47,8 @@ public static class Strings
         { "ï", "i" },
         { "û", "u" },
         { "ô", "o" },
-        { "ö", "o" }
+        { "ö", "o" },
+        { "-", " " }
     };
 
 
@@ -119,6 +120,9 @@ public class QuestionCollection : MonoBehaviour
     private QuizQuestion[] allQuestions_Football;
     private QuizQuestion[] allQuestions_Animaux;
     private QuizQuestion[] allQuestions_Musique;
+    private QuizQuestion[] allQuestions_Mario;
+    private QuizQuestion[] allQuestions_Annees80;
+    private QuizQuestion[] allQuestions_Societe;
     private QuizQuestion[][] allQuestions;
 
 
@@ -210,6 +214,9 @@ public class QuestionCollection : MonoBehaviour
         allQuestions_Football = allQuestions[29];
         allQuestions_Animaux = allQuestions[30];
         allQuestions_Musique = allQuestions[31];
+        allQuestions_Mario = allQuestions[32];
+        allQuestions_Annees80 = allQuestions[33];
+        allQuestions_Societe = allQuestions[34];
     }
 
     /// <summary>
@@ -265,7 +272,8 @@ public class QuestionCollection : MonoBehaviour
             allQuestions_ArtsLitterature,allQuestions_SportsLoisirs, allQuestions_Mathematiques, allQuestions_USA, allQuestions_Japon, allQuestions_Disney,
             allQuestions_Medecine, allQuestions_HarryPotter, allQuestions_Marvel, allQuestions_StarWars, allQuestions_ESport, allQuestions_Nintendo,
             allQuestions_Playstation, allQuestions_Mythologie, allQuestions_Cinema, allQuestions_LesSimpsons, allQuestions_SeriesTV, allQuestions_BattleRoyale,
-            allQuestions_Fitness, allQuestions_Pokemon, allQuestions_Retrogaming, allQuestions_PopCulture,allQuestions_Economie,allQuestions_Xbox,allQuestions_Football,allQuestions_Animaux,allQuestions_Musique};
+            allQuestions_Fitness, allQuestions_Pokemon, allQuestions_Retrogaming, allQuestions_PopCulture,allQuestions_Economie,allQuestions_Xbox,allQuestions_Football,allQuestions_Animaux,allQuestions_Musique,
+            allQuestions_Mario, allQuestions_Annees80, allQuestions_Societe};
 
 
         XmlSerializer serializer = new XmlSerializer(typeof(QuizQuestion[][]));
@@ -349,6 +357,12 @@ public class QuestionCollection : MonoBehaviour
                 return allQuestions_Animaux;
             case "Musique":
                 return allQuestions_Musique;
+            case "Mario":
+                return allQuestions_Mario;
+            case "Années 80":
+                return allQuestions_Annees80;
+            case "Société":
+                return allQuestions_Societe;
             default:
                 return null;
         }
