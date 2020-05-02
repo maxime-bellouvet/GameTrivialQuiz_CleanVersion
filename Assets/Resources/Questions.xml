@@ -23207,4 +23207,333 @@
       <Asked>false</Asked>
     </QuizQuestion>
   </ArrayOfQuizQuestion>
+  <ArrayOfQuizQuestion>
+    <QuizQuestion>
+      <Question>À quelle ère remonte la couture ?</Question>
+      <CorrectAnswer>
+        <string>Ère paléolithique</string>
+        <string>l'Ère paléolithique</string>
+        <string>paléolithique</string>
+        <string>le paléolithique</string>
+        <string>au paléolithique</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Ère couturique</string>
+        <string>Ère cénozoïque</string>
+        <string>Ère paléozoïque</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel peuple utilisait le tendon du caribou en guise d'aiguille à tricoter ?</Question>
+      <CorrectAnswer>
+        <string>Les Inuits</string>
+        <string>Inuits</string>
+        <string>Inuit</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Les Arabes</string>
+        <string>Les Aztèques</string>
+        <string>Les Chinois</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment appelle-t-on le gabarit en papier ou en carton utilisé pour tailler un vêtement ?</Question>
+      <CorrectAnswer>
+        <string>Un patron</string>
+        <string>patron</string>
+        <string>le patron</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Un larbin</string>
+        <string>Une trame</string>
+        <string>Un biais</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment appelle-t-on le trou dont est percé l'une des extrémités de l'aiguille ?</Question>
+      <CorrectAnswer>
+        <string>Le chas</string>
+        <string>L'oeil</string>
+        <string>chas</string>
+        <string>le chat</string>
+        <string>chat</string>
+        <string>oeil</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>La lisière</string>
+        <string>La parementure</string>
+        <string>Le coupon</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle anciene pièce de machine à coudre est aujourd'hui remplacée par la canette ?</Question>
+      <CorrectAnswer>
+        <string>La navette</string>
+        <string>navette</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>La marge</string>
+        <string>Le galon</string>
+        <string>L'express</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment appelle-t-on l'ensemble des fils tendus sur le métier à tisser et passant transversalement entre les fils de la chaîne pour constituer un tissu ?</Question>
+      <CorrectAnswer>
+        <string>La trame</string>
+        <string>trame</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>La bande</string>
+        <string>L'emmanchure</string>
+        <string>La pattemouille</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment nomme-t-on la rectification d'un vêtement après essayage ?</Question>
+      <CorrectAnswer>
+        <string>La retouche</string>
+        <string>retouche</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>La marge</string>
+        <string>Le gommage</string>
+        <string>Le zig-zag</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment appelle-t-on la grosse toile à tissage peu serrée utilisée comme support dans la tapisserie à aiguille ?</Question>
+      <CorrectAnswer>
+        <string>Canevas</string>
+        <string>Le canevas</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Bâche</string>
+        <string>Recouvreuse</string>
+        <string>Pattemouille</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment appelle-t-on le dessin exécuté à l'aiguille sur une étoffe déjà tissée ?</Question>
+      <CorrectAnswer>
+        <string>Une broderie</string>
+        <string>broderie</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Une fresque</string>
+        <string>Une parementure</string>
+        <string>Un passepoil</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel verbe signifie coudre provisoirement à longs points, avant l'exécution définitive ?</Question>
+      <CorrectAnswer>
+        <string>Faufiler</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Surfiler</string>
+        <string>Surpiquer</string>
+        <string>Surjeter</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel couturier, issu d'une famille d'industriels aisés, a créé des lignes comme "Corolle", "Zigzag" ou bien "Tulipe" ?</Question>
+      <CorrectAnswer>
+        <string>Christian Dior</string>
+        <string>Dior</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Jean-Paul Gaultier</string>
+        <string>Louis Azzaro</string>
+        <string>Guy Laroche</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel pays est à l'origine de lappellation "haute couture" juridiquement protégée par un décret datant de 1945 ?</Question>
+      <CorrectAnswer>
+        <string>France</string>
+        <string>la France</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Italie</string>
+        <string>Angleterre</string>
+        <string>Belgique</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelles sont les 4 grandes villes qui présentent, à la suite, leur "semaine de mode" selon des dates bien arrêtées et sensiblement les mêmes d'une année sur l'autres ?</Question>
+      <CorrectAnswer>
+        <string>New-York, Londres, Milan et Paris</string>
+        <string>New-York Londres Milan et Paris</string>
+        <string>New-York Londres Milan Paris</string>
+        <string>New-York, Londre, Milan et Paris</string>
+        <string>New-York Londre Milan et Paris</string>
+        <string>New-York Londre Milan Paris</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>New-York, Rome, Madrid et Paris</string>
+        <string>New-York, Londres, Rome et Paris</string>
+        <string>Madrid, Londres, Milan et Paris</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Qui a inventé le défilé de mode qui date de 1850 ?</Question>
+      <CorrectAnswer>
+        <string>Charles Frederick Worth</string>
+        <string>Charles Frederic Worth</string>
+        <string>Charles Frederik Worth</string>
+        <string>Frederick Worth</string>
+        <string>Frederic Worth</string>
+        <string>Frederik Worth</string>
+        <string>Charles Worth</string>
+        <string>Charles Worth</string>
+        <string>Charles Worth</string>
+        <string>Worth</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Pierre Cardin</string>
+        <string>Paul Rodier</string>
+        <string>Louise Chéruit</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel est l'emblème de la maison Chanel ?</Question>
+      <CorrectAnswer>
+        <string>Un camélia</string>
+        <string>camélia</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Un caducée</string>
+        <string>Un cheval</string>
+        <string>Un château</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle maison de haute couture est devenue célèbre pour son élégante petite robe noire ?</Question>
+      <CorrectAnswer>
+        <string>Chanel</string>
+        <string>Channel</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Celine</string>
+        <string>Yves Saint-Laurent</string>
+        <string>Dior</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle maison de haute couture est connue pour ses célèbres carrés de soie ?</Question>
+      <CorrectAnswer>
+        <string>Hermès</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Chanel</string>
+        <string>Louis Vuitton</string>
+        <string>Dior</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Qu’est-ce qu’un galon ?</Question>
+      <CorrectAnswer>
+        <string>un ruban</string>
+        <string>un ruban tressé</string>
+        <string>un ruban tissé</string>
+        <string>ruban</string>
+        <string>ruban tressé</string>
+        <string>ruban tissé</string>
+        <string>bande de tissu</string>
+        <string>une bande de tissu</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>un type de tissu</string>
+        <string>une machine à coudre</string>
+        <string>un type de point</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Qu’est-ce qu’une jeannette ?</Question>
+      <CorrectAnswer>
+        <string>une mini table à repasser</string>
+        <string>une table à repasser</string>
+        <string>mini table à repasser</string>
+        <string>table à repasser</string>
+        <string>une mini planche à repasser</string>
+        <string>une planche à repasser</string>
+        <string>mini planche à repasser</string>
+        <string>planche à repasser</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>un outil de découpage</string>
+        <string>un tissu</string>
+        <string>un type de point</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Qui a inventé la machine à coudre ?</Question>
+      <CorrectAnswer>
+        <string>Barthélémy Thimonnier</string>
+        <string>Thimonnier</string>
+        <string>Barthélémy Thimonier</string>
+        <string>Thimonier</string>
+        <string>Barthélémi Thimonier</string>
+        <string>Barthélémi Thimonnier</string>
+        <string>Timonier</string>
+        <string>Barthélémy Timonier</string>
+        <string>Barthélémy Timonnier</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Hector Coudrier</string>
+        <string>Georges Tailleur</string>
+        <string>Pierre Carmien</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle marque a proposé les premières machines à coudre électriques en 1889 ?</Question>
+      <CorrectAnswer>
+        <string>Singer Sewing Co.</string>
+        <string>Singer</string>
+        <string>Singer Sewing</string>
+        <string>Singer Sewing Co</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>JUKI</string>
+        <string>Toyota</string>
+        <string>Brother</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>En France, quel pourcentage des 18-34 ans possédait une machine à coudre en 2016 ?</Question>
+      <CorrectAnswer>
+        <string>30%</string>
+        <string>30 %</string>
+        <string>30</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>15%</string>
+        <string>50%</string>
+        <string>5%</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+  </ArrayOfQuizQuestion>
 </ArrayOfArrayOfQuizQuestion>
