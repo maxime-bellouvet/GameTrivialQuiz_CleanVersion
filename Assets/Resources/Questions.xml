@@ -8165,6 +8165,146 @@
       </WrongAnswers>
       <Asked>false</Asked>
     </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle est la principale indication du Seresta (Oxazépam) ?</Question>
+      <CorrectAnswer>
+        <string>Anxiété</string>
+        <string>l'Anxiété</string>
+        <string>angoisse</string>
+        <string>stress</string>
+        <string>trouble d'angoisse</string>
+        <string>troubles d'angoisse</string>
+        <string>délire</string>
+        <string>délires</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Insomnie</string>
+        <string>Maladie de Parkinson</string>
+        <string>Constipation</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>A quelle classe thérapeutique appartient la Pyostacine ?</Question>
+      <CorrectAnswer>
+        <string>Antibiotique</string>
+        <string>Anti biotique</string>
+        <string>Antibiotiques</string>
+        <string>Anti biotiques</string>
+        <string>synergistines</string>
+        <string>synergistine</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Anti-ulcéreux</string>
+        <string>Anti-inflammatoire</string>
+        <string>Antalgiques</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel trouble l'Aerius corrige-t-il ?</Question>
+      <CorrectAnswer>
+        <string>Les allergies</string>
+        <string>allergies</string>
+        <string>urticaires</string>
+        <string>urticaire</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Les troubles du sommeil</string>
+        <string>Les troubles du rythme cardiaque</string>
+        <string>Les troubles comportementaux</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>En quelle année la maladie d'Alzheimer a-t-elle été découverte ?</Question>
+      <CorrectAnswer>
+        <string>1906</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>1806</string>
+        <string>1856</string>
+        <string>1956</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel est le nom des prédispositions naturelles des individus à certaines maladies, identifiées par l'homéopathie ?</Question>
+      <CorrectAnswer>
+        <string>La diathèse</string>
+        <string>diathèse</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Le diabète</string>
+        <string>Le placebo</string>
+        <string>Le syndrôme</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Jusqu’à combien de composés chimiques renferme une cigarette en moyenne (à la centaine près) ?</Question>
+      <CorrectAnswer>
+        <string>4000</string>
+        <string>4100</string>
+        <string>3900</string>
+        <string>4 000</string>
+        <string>4 100</string>
+        <string>3 900</string>
+        <string>4,000</string>
+        <string>4,100</string>
+        <string>3,900</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>100</string>
+        <string>1000</string>
+        <string>2000</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel est le pourcentage de cancers du poumon attribuable au tabagisme (à 5% près) ?</Question>
+      <CorrectAnswer>
+        <string>90%</string>
+        <string>91%</string>
+        <string>92%</string>
+        <string>93%</string>
+        <string>94%</string>
+        <string>95%</string>
+        <string>89%</string>
+        <string>88%</string>
+        <string>87%</string>
+        <string>86%</string>
+        <string>85%</string>
+        <string>90 %</string>
+        <string>91 %</string>
+        <string>92 %</string>
+        <string>93 %</string>
+        <string>94 %</string>
+        <string>95 %</string>
+        <string>89 %</string>
+        <string>88 %</string>
+        <string>87 %</string>
+        <string>86 %</string>
+        <string>85 %</string>
+        <string>90</string>
+        <string>91</string>
+        <string>92</string>
+        <string>93</string>
+        <string>94</string>
+        <string>95</string>
+        <string>89</string>
+        <string>88</string>
+        <string>87</string>
+        <string>86</string>
+        <string>85</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>75%</string>
+        <string>50%</string>
+        <string>30%</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
   </ArrayOfQuizQuestion>
   <ArrayOfQuizQuestion>
     <QuizQuestion>
