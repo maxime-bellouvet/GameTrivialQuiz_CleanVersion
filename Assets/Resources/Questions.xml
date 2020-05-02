@@ -18501,7 +18501,7 @@
       <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
-      <Question>CQuel économiste français a créé le concept de l’utilité marginale ?</Question>
+      <Question>Quel économiste français a créé le concept de l’utilité marginale ?</Question>
       <CorrectAnswer>
         <string>Léon Walras</string>
         <string>Walras</string>
@@ -22402,7 +22402,7 @@
       <Asked>false</Asked>
     </QuizQuestion>
     <QuizQuestion>
-      <Question>La société Papier Linge eu l'idée de créé un nouveau produit en 1946. Comment s'appelle-t-il ?</Question>
+      <Question>La société Papier Linge eu l'idée de créer un nouveau produit en 1946. Comment s'appellait-t-il ?</Question>
       <CorrectAnswer>
         <string>Le Sopalin</string>
         <string>Sopalin</string>
@@ -22743,6 +22743,466 @@
         <string>2%</string>
         <string>15%</string>
         <string>34%</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+  </ArrayOfQuizQuestion>
+  <ArrayOfQuizQuestion>
+    <QuizQuestion>
+      <Question>Que signifie PC ?</Question>
+      <CorrectAnswer>
+        <string>Personal Computer</string>
+        <string>ordinateur personnel</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Pocket Computer</string>
+        <string>Portable Computer</string>
+        <string>Play Computer</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel nom de gâteau porte les petits fichiers que les sites web mettent sur le disque dur de votre ordinateur lors de votre première visite ?</Question>
+      <CorrectAnswer>
+        <string>Cookies</string>
+        <string>les cookies</string>
+        <string>cookie</string>
+        <string>un cookie</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Biscuits</string>
+        <string>Sablés</string>
+        <string>Brownies</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>De combien de chiffres au maximum se compose une adresse IP (v4) ?</Question>
+      <CorrectAnswer>
+        <string>12</string>
+        <string>douze</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>4</string>
+        <string>10</string>
+        <string>6</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment traduit-on "bug" en français ?</Question>
+      <CorrectAnswer>
+        <string>bogue</string>
+        <string>bog</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>beugne</string>
+        <string>bêtise</string>
+        <string>virus</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>"Browser" est le mot anglais pour :</Question>
+      <CorrectAnswer>
+        <string>Naviguateur</string>
+        <string>le naviguateur</string>
+        <string>un naviguateur</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Surfeur</string>
+        <string>Explorateur</string>
+        <string>Gestionnaire</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Linux, ou GNU/Linux, est un système d'exploitation compatible POSIX. Linux est basé sur le noyau Unix. Mais en quelle année a-t-il été créé ?</Question>
+      <CorrectAnswer>
+        <string>1991</string>
+        <string>91</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>1995</string>
+        <string>1988</string>
+        <string>2001</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle est la signification de www dans une adresse internet ?</Question>
+      <CorrectAnswer>
+        <string>World Wide Web</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Whole Wide World</string>
+        <string>Work Without Wait</string>
+        <string>World Wide Worms</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle est la valeur du port par défault utilisée par le protocole SSH ?</Question>
+      <CorrectAnswer>
+        <string>22</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>80</string>
+        <string>8000</string>
+        <string>443</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Que signigie F.A.I. ?</Question>
+      <CorrectAnswer>
+        <string>Fournisseur d'Accès à Internet</string>
+        <string>Fournisseur d'Accès Internet</string>
+        <string>Fournisseur Accès Internet</string>
+        <string>Fournisseur Accès à Internet</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Fabricant d'Accès Informatique</string>
+        <string>Foire Aux Interrogations</string>
+        <string>Fondements Architecturaux d'Internet</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel est le langage informatique le plus courant utilisé pour écrire les pages web ?</Question>
+      <CorrectAnswer>
+        <string>HTML</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>HTTP</string>
+        <string>Java</string>
+        <string>Flash</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>À combien de bits est égal 1 octet ?</Question>
+      <CorrectAnswer>
+        <string>8 bits</string>
+        <string>8 bit</string>
+        <string>8</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>2 bits</string>
+        <string>255 bits</string>
+        <string>16 bits</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment s’appelle la technique utilisée par les fraudeurs qui consiste à dérober vos informations personnelles (n° de carte de crédit, mots de passe, ...) via un courrier électronique ou un site web falsifié ?</Question>
+      <CorrectAnswer>
+        <string>phishing</string>
+        <string>le phishing</string>
+        <string>fishing</string>
+        <string>le fishing</string>
+        <string>Hameçonnage</string>
+        <string>le hameçonnage</string>
+        <string>l'hameçonnage</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>spamdexing</string>
+        <string>backdoor</string>
+        <string>DDoS</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment appelle-t-on un logiciel dont l’utilisateur doit rétribuer l’auteur s’il veut continuer à l’utiliser après une période de gratuité ?</Question>
+      <CorrectAnswer>
+        <string>Shareware</string>
+        <string>un shareware</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Freeware</string>
+        <string>Open Source</string>
+        <string>Malware</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>En quelle unité mesure-t-on la fréquence (nombre de cycles par seconde) d’un microprocesseur ?</Question>
+      <CorrectAnswer>
+        <string>GHz (GigaHertz)</string>
+        <string>GHz</string>
+        <string>GigaHertz</string>
+        <string>en GHz</string>
+        <string>en GigaHertz</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>MB (MegaByte)</string>
+        <string>Go (GigaOctet)</string>
+        <string>MIPS (million d’instructions par seconde)</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Comment s’appelle un logiciel malveillant installé dans un ordinateur dans le but de collecter et transférer des informations sans que l’utilisateur en ait connaissance ?</Question>
+      <CorrectAnswer>
+        <string>spyware</string>
+        <string>Un spyware</string>
+        <string>malware</string>
+        <string>Un malware</string>
+        <string>adware</string>
+        <string>Un adware</string>
+        <string>trojan</string>
+        <string>Un trojan</string>
+        <string>cheval de troie</string>
+        <string>Un cheval de troie</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>virus</string>
+        <string>spam</string>
+        <string>ransomware</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Que veut dire FTP ?</Question>
+      <CorrectAnswer>
+        <string>File Transfer Protocol</string>
+        <string>File Transfert Protocol</string>
+        <string>File Transfer Protocole</string>
+        <string>File Transfert Protocole</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Fiber Twisted Pairs</string>
+        <string>File Transmission Protocol</string>
+        <string>File Text Processor</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle est la combinaison de touches qui permet de sélectionner tous les fichiers d’un répertoire sous Windows ?</Question>
+      <CorrectAnswer>
+        <string>Ctrl + A</string>
+        <string>control + A</string>
+        <string>controle + A</string>
+        <string>ctrl+A</string>
+        <string>control+A</string>
+        <string>controle+A</string>
+        <string>ctrl A</string>
+        <string>control A</string>
+        <string>controle A</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Alt + T</string>
+        <string>Ctrl + S</string>
+        <string>Alt + Maj + S</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel design pattern fournit une interface unifiée facile à utiliser pour un ensemble d'interfaces dans un sous-système ?</Question>
+      <CorrectAnswer>
+        <string>Facade</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Iterator</string>
+        <string>Prototype</string>
+        <string>Observer</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel type de maintenance consiste à faire évoluer une application lorsque son environnement change pour assurer sa continuité ?</Question>
+      <CorrectAnswer>
+        <string>Maintenance adaptative</string>
+        <string>adaptative</string>
+        <string>adaptatif</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Maintenance préventive</string>
+        <string>Maintenance évolutive</string>
+        <string>Maintenance corrective</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Combien de niveaux existe-t-il dans le modèle de qualité CMMI ?</Question>
+      <CorrectAnswer>
+        <string>5</string>
+        <string>cinq</string>
+        <string>5 niveaux</string>
+        <string>cinq niveaux</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>3</string>
+        <string>7</string>
+        <string>9</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel design pattern définit une interface pour la création d'un objet en déléguant à ses sous-classes le choix des classes à instancier ?</Question>
+      <CorrectAnswer>
+        <string>Factory</string>
+        <string>Factory pattern</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Facade</string>
+        <string>Composite</string>
+        <string>Builder</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle est l’extension des fichiers Excel qui ne comportent pas des macros à partir de la version 2007 ?</Question>
+      <CorrectAnswer>
+        <string>.xlsx</string>
+        <string>xlsx</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>.xls</string>
+        <string>.xlsm</string>
+        <string>.csv</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Selon l'IEEE, quel était le langage de programmation le plus populaire en 2019 ?</Question>
+      <CorrectAnswer>
+        <string>Python</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>C</string>
+        <string>Java</string>
+        <string>JavaScript</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel est le nom de la version 5.1 de WordPress ?</Question>
+      <CorrectAnswer>
+        <string>Betty</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Jennifer</string>
+        <string>Sandra</string>
+        <string>Claudia</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quelle entreprise a racheté GitHub en 2018 ?</Question>
+      <CorrectAnswer>
+        <string>Microsoft</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Google</string>
+        <string>Amazon</string>
+        <string>Apple</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>En C#, combient de mots clés existent-ils pour définir les modificateurs d'accès ?</Question>
+      <CorrectAnswer>
+        <string>4</string>
+        <string>quatre</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>6</string>
+        <string>3</string>
+        <string>8</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel composant de l'ordinateur effectuant tous les calculs est assimilé à son 'cerveau' ?</Question>
+      <CorrectAnswer>
+        <string>Le CPU</string>
+        <string>CPU</string>
+        <string>processeur</string>
+        <string>le processeur</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Le moniteur</string>
+        <string>La ROM</string>
+        <string>La RAM</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Que signigie BIOS ?</Question>
+      <CorrectAnswer>
+        <string>Basic Input/Output System</string>
+        <string>Basic Input Output System</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Base Informatique Orientée du Système</string>
+        <string>Boot Identifier Operational Series</string>
+        <string>Binary-Integrated Operating Services</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel fabricant de cartes graphiques produit les modèles GeForce ?</Question>
+      <CorrectAnswer>
+        <string>NVIDIA</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>AMD</string>
+        <string>Matrox Graphics</string>
+        <string>Intel</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>En quelle année le système d'exploitation Windows 10 a-t-il été disponible publiquement ?</Question>
+      <CorrectAnswer>
+        <string>2015</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>2013</string>
+        <string>2017</string>
+        <string>2011</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel est le système d'exploitation de Samsung ?</Question>
+      <CorrectAnswer>
+        <string>Android</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Windows</string>
+        <string>Linux</string>
+        <string>iOS</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Quel animal est l'emblême de Mozilla Firefox ?</Question>
+      <CorrectAnswer>
+        <string>Un renard</string>
+        <string>renard</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>Un loup</string>
+        <string>Un papillon</string>
+        <string>Un hibou</string>
+      </WrongAnswers>
+      <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+      <Question>Que signigie l'acronyme 'LOL' utilisé sur les forums et les chats ?</Question>
+      <CorrectAnswer>
+        <string>Laughing Out Loud</string>
+        <string>Laughin Out Loud</string>
+        <string>Laugh Out Loud</string>
+        <string>lots of love</string>
+        <string>lot of love</string>
+      </CorrectAnswer>
+      <WrongAnswers>
+        <string>League Of Legends</string>
+        <string>Lack Of Love</string>
+        <string>Lot of Laughing</string>
       </WrongAnswers>
       <Asked>false</Asked>
     </QuizQuestion>
