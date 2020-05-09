@@ -125,6 +125,7 @@ public class QuestionCollection : MonoBehaviour
     private QuizQuestion[] allQuestions_Societe;
     private QuizQuestion[] allQuestions_Informatique;
     private QuizQuestion[] allQuestions_Couture;
+    private QuizQuestion[] allQuestions_Insolite;
     private QuizQuestion[][] allQuestions;
 
 
@@ -221,6 +222,7 @@ public class QuestionCollection : MonoBehaviour
         allQuestions_Societe = allQuestions[34];
         allQuestions_Informatique = allQuestions[35];
         allQuestions_Couture = allQuestions[36];
+        allQuestions_Insolite = allQuestions[37];
     }
 
     /// <summary>
@@ -277,7 +279,7 @@ public class QuestionCollection : MonoBehaviour
             allQuestions_Medecine, allQuestions_HarryPotter, allQuestions_Marvel, allQuestions_StarWars, allQuestions_ESport, allQuestions_Nintendo,
             allQuestions_Playstation, allQuestions_Mythologie, allQuestions_Cinema, allQuestions_LesSimpsons, allQuestions_SeriesTV, allQuestions_BattleRoyale,
             allQuestions_Fitness, allQuestions_Pokemon, allQuestions_Retrogaming, allQuestions_PopCulture,allQuestions_Economie,allQuestions_Xbox,allQuestions_Football,allQuestions_Animaux,allQuestions_Musique,
-            allQuestions_Mario, allQuestions_Annees80, allQuestions_Societe, allQuestions_Informatique, allQuestions_Couture};
+            allQuestions_Mario, allQuestions_Annees80, allQuestions_Societe, allQuestions_Informatique, allQuestions_Couture, allQuestions_Insolite};
 
 
         XmlSerializer serializer = new XmlSerializer(typeof(QuizQuestion[][]));
@@ -371,6 +373,8 @@ public class QuestionCollection : MonoBehaviour
                 return allQuestions_Informatique;
             case "Couture":
                 return allQuestions_Couture;
+            case "Insolite":
+                return allQuestions_Insolite;
             default:
                 return null;
         }

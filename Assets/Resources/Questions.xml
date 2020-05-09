@@ -23676,4 +23676,582 @@
       <Asked>false</Asked>
     </QuizQuestion>
   </ArrayOfQuizQuestion>
+  <ArrayOfQuizQuestion>
+    <QuizQuestion>
+        <Question>Dans une vie, combien de temps en moyenne aura-t-on passé à dormir (à un an près) ?</Question>
+        <CorrectAnswer>
+            <string>25 ans</string>
+            <string>26 ans</string>
+            <string>24 ans</string>
+            <string>25</string>
+            <string>26</string>
+            <string>24 ans</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>18 ans</string>
+            <string>12 ans</string>
+            <string>6 ans</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quelle lettre est totalement absente du roman 'La Disparition' de Georges Perec (1969) ?</Question>
+        <CorrectAnswer>
+            <string>E</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>U</string>
+            <string>M</string>
+            <string>G</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Si les vaisseaux sanguins d'un adulte (~1,76 m) étaient mis bout à bout, quelle serait la longueur totale obtenue ?</Question>
+        <CorrectAnswer>
+            <string>100 000 km</string>
+            <string>100000 km</string>
+            <string>100 000km</string>
+            <string>100000km</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>1 000 km</string>
+            <string>1 km</string>
+            <string>100 m</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Sur 302 stations dans le métro parisien, combien comportent un nom de femme ? (mai 2020)</Question>
+        <CorrectAnswer>
+            <string>7</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>30</string>
+            <string>18</string>
+            <string>62</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Combien de coeurs possède la pieuvre ?</Question>
+        <CorrectAnswer>
+            <string>3</string>
+            <string>trois</string>
+            <string>3 coeurs</string>
+            <string>trois coeurs</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>2</string>
+            <string>5</string>
+            <string>7</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quels sont les seuls mammifères à posséder quatre genoux ?</Question>
+        <CorrectAnswer>
+            <string>Les éléphants</string>
+            <string>éléphants</string>
+            <string>l'éléphant</string>
+            <string>éléphant</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Les kangourous</string>
+            <string>Les girafes</string>
+            <string>Les singes</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Combien de personnages fictifs sont présents dans l'immense fresque de Balzac 'La Comédie humaine' (à 10 près) ?</Question>
+        <CorrectAnswer>
+            <string>2472</string>
+            <string>2 472</string>
+            <string>2471</string>
+            <string>2 471</string>
+            <string>2470</string>
+            <string>2 470</string>
+            <string>2469</string>
+            <string>2 469</string>
+            <string>2468</string>
+            <string>2 468</string>
+            <string>2467</string>
+            <string>2 467</string>
+            <string>2466</string>
+            <string>2 466</string>
+            <string>2465</string>
+            <string>2 465</string>
+            <string>2464</string>
+            <string>2 464</string>
+            <string>2463</string>
+            <string>2 463</string>
+            <string>2462</string>
+            <string>2 462</string>
+            <string>2473</string>
+            <string>2 473</string>
+            <string>2474</string>
+            <string>2 474</string>
+            <string>2475</string>
+            <string>2 475</string>
+            <string>2476</string>
+            <string>2 476</string>
+            <string>2477</string>
+            <string>2 477</string>
+            <string>2478</string>
+            <string>2 478</string>
+            <string>2479</string>
+            <string>2 479</string>
+            <string>2480</string>
+            <string>2 480</string>
+            <string>2481</string>
+            <string>2 481</string>
+            <string>2482</string>
+            <string>2 482</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>114</string>
+            <string>1001</string>
+            <string>653</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Si on déroulait le sillon d'un DVD, il mesurerait environ ...</Question>
+        <CorrectAnswer>
+            <string>6 km</string>
+            <string>6km</string>
+            <string>5.8 km</string>
+            <string>5,8 km</string>
+            <string>5.9 km</string>
+            <string>5,9 km</string>
+            <string>5.8km</string>
+            <string>5,8km</string>
+            <string>5840 m</string>
+            <string>5 840 m</string>
+            <string>5840m</string>
+            <string>5 840m</string>
+            <string>5800 m</string>
+            <string>5 800 m</string>
+            <string>5800m</string>
+            <string>5 800m</string>
+            <string>6000 m</string>
+            <string>6 000 m</string>
+            <string>6000m</string>
+            <string>6 000m</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>500 m</string>
+            <string>60 m</string>
+            <string>68 km</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Que représentait le modèle en Lego dans l'"oeuvre" de l'artiste polonais Zbigniew Libera en 1996 ?</Question>
+        <CorrectAnswer>
+            <string>Un camp de concentration</string>
+            <string>camp de concentration</string>
+            <string>camp nazi</string>
+            <string>un camp nazi</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Une prison américaine</string>
+            <string>Un hamburger</string>
+            <string>Une cuvette de WC</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans l'Indiana aux États-Unis, une loi interdit aux singes de ...</Question>
+        <CorrectAnswer>
+            <string>Fumer des cigarettes</string>
+            <string>Fumer</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Boire de l'alcool</string>
+            <string>Voler des objets</string>
+            <string>Porter des bérets</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>A Portland, aux Etats-Unis, quel objet un homme est-il interdit d'utiliser pour chatouiller sa femme ?</Question>
+        <CorrectAnswer>
+            <string>Un plumeau</string>
+            <string>plumeau</string>
+            <string>Une plume</string>
+            <string>plume</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Une fourchette</string>
+            <string>Une sandale</string>
+            <string>Un parapluie</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Dans quelle ville du Royaume-Uni est-il légal de tuer un écossais s'il porte un arc et des flèches ?</Question>
+        <CorrectAnswer>
+            <string>York</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Cambridge</string>
+            <string>Manchester</string>
+            <string>Plymouth</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est le record de la plus haute chute libre sans parachute à laquelle un être humain ait survécu ?</Question>
+        <CorrectAnswer>
+            <string>10 160 m</string>
+            <string>10160 m</string>
+            <string>10 000 m</string>
+            <string>10 100 m</string>
+            <string>9 900 m</string>
+            <string>10 000m</string>
+            <string>10 100m</string>
+            <string>9 900m</string>
+            <string>10000 m</string>
+            <string>10100 m</string>
+            <string>9900 m</string>
+            <string>10000m</string>
+            <string>10100m</string>
+            <string>9900m</string>
+            <string>10160m</string>
+            <string>10 160m</string>
+            <string>10 160 m</string>
+            <string>10160 m</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>1240 m</string>
+            <string>503 m</string>
+            <string>109 m</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En quelle langue est écrite officiellement la devise nationale du Royaume-Uni ?</Question>
+        <CorrectAnswer>
+            <string>français</string>
+            <string>en français</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>anglais</string>
+            <string>latin</string>
+            <string>indien</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>La 1ère société distributrice de jouets en France est...</Question>
+        <CorrectAnswer>
+            <string>McDonalds</string>
+            <string>McDonald's</string>
+            <string>McDonald</string>
+            <string>Mc Donald's</string>
+            <string>Mc Donalds</string>
+            <string>Mc Donald</string>
+            <string>Mac Donalds</string>
+            <string>Mac Donald</string>
+            <string>Mac Donald's</string>
+            <string>MacDonalds</string>
+            <string>MacDonald</string>
+            <string>MacDonald's</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Mattel</string>
+            <string>Michelin</string>
+            <string>Louis Vuitton</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En 1610, le mathématicien Johannes Kepler est gêné de ne pouvoir apporter un cadeau à son mécène pour le Nouvel An. Il lui offre finalement « presque rien », soit :</Question>
+        <CorrectAnswer>
+            <string>Un flocon de neige</string>
+            <string>flocon de neige</string>
+            <string>un flocon</string>
+            <string>flocon</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Du vide en bocal</string>
+            <string>Un point sur une feuille</string>
+            <string>Un cerveau de moustique</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Une étude a montré que se regarder les yeux dans les yeux pendant longtemps peut avoir des effets indésirables, en particulier entraîner :</Question>
+        <CorrectAnswer>
+            <string>des hallucinations</string>
+            <string>hallucinations</string>
+            <string>une hallucination</string>
+            <string>hallucination</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>des maux de tête</string>
+            <string>une cécité partielle</string>
+            <string>des flatulences</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est le muscle le plus puissant du corps humain ?</Question>
+        <CorrectAnswer>
+            <string>Le grand fessier</string>
+            <string>grand fessier</string>
+            <string>le fessier</string>
+            <string>fessier</string>
+            <string>les fesses</string>
+            <string>fesses</string>
+            <string>la fesse</string>
+            <string>fesse</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Le grand dorsal</string>
+            <string>La langue</string>
+            <string>Le biceps</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>La taille maximale jamais atteinte par un homme à ce jour est de (à 1cm près) :</Question>
+        <CorrectAnswer>
+            <string>2,72 m</string>
+            <string>2 m 72</string>
+            <string>2.72 m</string>
+            <string>2,72m</string>
+            <string>2.72m</string>
+            <string>2 mètres 72</string>
+            <string>2,71 m</string>
+            <string>2 m 71</string>
+            <string>2.71 m</string>
+            <string>2,71m</string>
+            <string>2.71m</string>
+            <string>2 mètres 71</string>
+            <string>2,73 m</string>
+            <string>2 m 73</string>
+            <string>2.73 m</string>
+            <string>2,73m</string>
+            <string>2.73m</string>
+            <string>2 mètres 73</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>2,51 m</string>
+            <string>2,22 m</string>
+            <string>3,06 m</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est le livre le plus volé au monde ?</Question>
+        <CorrectAnswer>
+            <string>La Bible</string>
+            <string>Bible</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Harry Potter à l'école des sorciers</string>
+            <string>Les Citations du Président Mao Tse-Toung</string>
+            <string>Le Petit Prince</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Selon un sondage Ifop en décembre 2017, quel pourcentage de français pense que la Terre est plate (à 1% près) ?</Question>
+        <CorrectAnswer>
+            <string>9%</string>
+            <string>9 %</string>
+            <string>10%</string>
+            <string>10 %</string>
+            <string>8%</string>
+            <string>8 %</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>1%</string>
+            <string>4%</string>
+            <string>22%</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Combien de tableaux Van Gogh a-t-il vendu de son vivant ?</Question>
+        <CorrectAnswer>
+            <string>1</string>
+            <string>un</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>0</string>
+            <string>765</string>
+            <string>231</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En moyenne, quelle quantité approximative d'insectes consommerions-nous en un an (à 100g près) ?</Question>
+        <CorrectAnswer>
+            <string>500 g</string>
+            <string>500g</string>
+            <string>400 g</string>
+            <string>400g</string>
+            <string>600 g</string>
+            <string>600g</string>
+            <string>0.5 kg</string>
+            <string>0.5kg</string>
+            <string>0,5 kg</string>
+            <string>0,5kg</string>
+            <string>500 grammes</string>
+            <string>un demi kilo</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>1.5 kg</string>
+            <string>5 kg</string>
+            <string>100 g</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En moyenne, combien d'heures par jours dort le koala ?</Question>
+        <CorrectAnswer>
+            <string>22 heures</string>
+            <string>22h</string>
+            <string>22 h</string>
+            <string>22</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>2 heures</string>
+            <string>7 heures</string>
+            <string>17 heures</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Selon les chiffres de lesgauchers.com en 2005, quel serait le pourcentage de gauchers en France (à 1% près) ?</Question>
+        <CorrectAnswer>
+            <string>13%</string>
+            <string>13 %</string>
+            <string>12.7%</string>
+            <string>12.7 %</string>
+            <string>12,7%</string>
+            <string>12,7 %</string>
+            <string>12%</string>
+            <string>12 %</string>
+            <string>14%</string>
+            <string>14 %</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>2%</string>
+            <string>50%</string>
+            <string>78%</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En 2019, combien de mails ont été envoyés par jour dans le monde ?</Question>
+        <CorrectAnswer>
+            <string>293 milliards</string>
+            <string>292 milliards</string>
+            <string>291 milliards</string>
+            <string>290 milliards</string>
+            <string>289 milliards</string>
+            <string>288 milliards</string>
+            <string>287 milliards</string>
+            <string>286 milliards</string>
+            <string>285 milliards</string>
+            <string>284 milliards</string>
+            <string>283 milliards</string>
+            <string>294 milliards</string>
+            <string>295 milliards</string>
+            <string>296 milliards</string>
+            <string>297 milliards</string>
+            <string>298 milliards</string>
+            <string>299 milliards</string>
+            <string>300 milliards</string>
+            <string>301 milliards</string>
+            <string>302 milliards</string>
+            <string>303 milliards</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>2 milliards</string>
+            <string>862 millions</string>
+            <string>3 millions</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Pendant combien de temps l'américain Charles Osborne a-t-il eu le hoquet ?</Question>
+        <CorrectAnswer>
+            <string>68 ans</string>
+            <string>67 ans</string>
+            <string>69 ans</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>21 ans</string>
+            <string>2 ans</string>
+            <string>6 mois</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En 2019, combien de tweets sont publiés par jour en moyenne ?</Question>
+        <CorrectAnswer>
+            <string>500 millions</string>
+            <string>510 millions</string>
+            <string>520 millions</string>
+            <string>530 millions</string>
+            <string>540 millions</string>
+            <string>550 millions</string>
+            <string>490 millions</string>
+            <string>480 millions</string>
+            <string>470 millions</string>
+            <string>460 millions</string>
+            <string>450 millions</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>90 millions</string>
+            <string>5 milliards</string>
+            <string>6 millions</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En 2019, quel état est le plus grand consommateur de vin rouge ?</Question>
+        <CorrectAnswer>
+            <string>Vatican</string>
+            <string>le Vatican</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>France</string>
+            <string>Chine</string>
+            <string>Californie</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>En France, quel est le nom de famille le plus porté ? (2020)</Question>
+        <CorrectAnswer>
+            <string>Martin</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Dubois</string>
+            <string>Durand</string>
+            <string>Jardin</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+    <QuizQuestion>
+        <Question>Quel est l'animal symbole de l'Ecosse ?</Question>
+        <CorrectAnswer>
+            <string>La licorne</string>
+            <string>licorne</string>
+        </CorrectAnswer>
+        <WrongAnswers>
+            <string>Le monstre du Loch Ness</string>
+            <string>Le hibou</string>
+            <string>La truite</string>
+        </WrongAnswers>
+        <Asked>false</Asked>
+    </QuizQuestion>
+  </ArrayOfQuizQuestion>
 </ArrayOfArrayOfQuizQuestion>
